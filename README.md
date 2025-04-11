@@ -50,7 +50,7 @@ It uses routes, middleware, the fs module, and dynamic HTML rendering to complet
 
 | Home Page | Feedback Page | 404 Page |
 |-----------|----------------|-----------|
-| ![Home](./assets/screenshots/home.png) | ![Feedback](./assets/screenshots/feedback.png) | ![404](./assets/screenshots/404.png) |
+| ![Home]([./assets/screenshots/home.png](https://mrleangreen.github.io/UI-UX-Tips-Feedback/) | ![Feedback](./assets/screenshots/feedback.png) | ![404](./assets/screenshots/404.png) |
 
 ---
 
